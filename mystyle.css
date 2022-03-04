@@ -1,0 +1,12 @@
+header{
+    text-align: center;
+    text-transform: uppercase;
+    border: .5rem solid rgb(144, 193, 248);
+    color: rgb(0, 110, 255);
+}
+main{
+    text-align: center;
+}
+button:hover{
+    color: rgb(9, 105, 9);
+}
